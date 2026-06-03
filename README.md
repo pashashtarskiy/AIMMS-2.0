@@ -28,6 +28,16 @@ Every track compliant with AIMMS 2.0 must have the following fields hardcoded in
 AIMMS 2.0 promotes "Rollercoaster Dynamics" — a technical arrangement methodology derived from sociological youth data to prevent cognitive fatigue. The standard requires open documentation of structural tension/release points (e.g., explicit marking of dynamic drops, arrangement breaks, and ambient interludes within the file's marker track).
 
 ---
+## 🌐 AIMMS 2.0 Multi-Disciplinary Framework (Beyond Music)
+
+AIMMS 2.0 is not strictly an audio protocol; it is a universal **Idea Provenance Protocol (IPP)** designed for literature, visual arts, programming, and scientific research. It shifts the focus from capturing the static final artifact to documenting the evolutionary history of the idea itself.
+
+### The Universal Marking Tags:
+*   **`CONCEPT-EVOLUTION-LOG`**: Hardcoded JSON or text chain documenting the dialogue milestones, data ingestion phases (human experience), and AI optimization iterations.
+*   **`CO-COGNITIVE-SPLIT`**: Explicitly states the semantic division of labor (e.g., Human: Concept, Emotion, Overarching Narrative | AI: Structural Synthesis, Metatagging, Code Compliance).
+*   **`PROMPT-GENESIS-HASH`**: A cryptographic anchor ensuring the digital work can be traced back to its raw, human-initiated philosophical spark.
+
+---
 
 ## 🎵 Case Study: The "DOOR 14" Album (Proof of Concept)
 
